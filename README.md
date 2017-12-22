@@ -10,4 +10,4 @@ This program has been tested with python version 3.5. Also PyQt5-library is need
 
 ## How to use the program
 
-This project consists of two programs: a server-program and a client-program. The server-program can be started on the command line by writing "python3 Server.py". To start the client-program, the IP-address of the server must be known. The client-program can be started on the command line by writing "Python3 Client.py <Server-IP-address>" This program should work with both IPv4- and global IPv6-addresses.
+This project consists of two programs: a server-program and a client-program. The server-program can be started on the command line by writing "python3 Server.py". To start the client-program, the IP-address of the server must be known. The client-program can be started on the command line by writing "python3 Client.py "server-IP-address"" (for example "python3 Client.py 1.2.3.4). This program should work with both IPv4- and global IPv6-addresses.
